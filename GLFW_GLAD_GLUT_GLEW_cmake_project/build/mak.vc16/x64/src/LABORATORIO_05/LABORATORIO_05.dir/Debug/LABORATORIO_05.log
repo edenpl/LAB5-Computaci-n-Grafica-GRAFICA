@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\OpenGl\opengl\GLFW_GLAD_GLUT_GLEW_cmake_project\src\LABORATORIO_05\main.cpp(546,5): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  LABORATORIO_05.vcxproj -> D:\OpenGl\opengl\GLFW_GLAD_GLUT_GLEW_cmake_project\build\mak.vc16\x64\src\LABORATORIO_05\Debug\LABORATORIO_05.exe

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\OpenGl\opengl\GLFW_GLAD_GLUT_GLEW_cmake_project\dep\include\glad\glad\glad.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\OpenGl\opengl\GLFW_GLAD_GLUT_GLEW_cmake_project\src\hw0\mytest3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\OpenGl\opengl\GLFW_GLAD_GLUT_GLEW_cmake_project\src\hw0\shaders.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\OpenGl\opengl\GLFW_GLAD_GLUT_GLEW_cmake_project\src\hw0\geometry3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\OpenGl\opengl\GLFW_GLAD_GLUT_GLEW_cmake_project\src\hw0\shaders.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\OpenGl\opengl\GLFW_GLAD_GLUT_GLEW_cmake_project\src\hw0\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{00BE98C9-8E6F-333A-9467-62E996082E0C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{1882F28A-49D3-3D58-98DB-E7D1347DF2E9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

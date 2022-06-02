@@ -1,0 +1,10 @@
+^D:\OPENGL\OPENGL\GLFW_GLAD_GLUT_GLEW_CMAKE_PROJECT\BUILD\MAK.VC16\X64\CMAKEFILES\E1440BFC98A886F7FB5CC0FF23F8D353\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/OpenGl/opengl/GLFW_GLAD_GLUT_GLEW_cmake_project -BD:/OpenGl/opengl/GLFW_GLAD_GLUT_GLEW_cmake_project/build/mak.vc16/x64 --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/OpenGl/opengl/GLFW_GLAD_GLUT_GLEW_cmake_project/build/mak.vc16/x64/GLFW_Tutorials.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

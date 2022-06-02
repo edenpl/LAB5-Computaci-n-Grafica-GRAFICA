@@ -1,0 +1,6 @@
+D:/OpenGl/opengl/GLFW_GLAD_GLUT_GLEW_cmake_project/build/mak.vc16/x64/CMakeFiles/ALL_BUILD.dir
+D:/OpenGl/opengl/GLFW_GLAD_GLUT_GLEW_cmake_project/build/mak.vc16/x64/CMakeFiles/ZERO_CHECK.dir
+D:/OpenGl/opengl/GLFW_GLAD_GLUT_GLEW_cmake_project/build/mak.vc16/x64/src/LABORATORIO_05/CMakeFiles/LABORATORIO_05.dir
+D:/OpenGl/opengl/GLFW_GLAD_GLUT_GLEW_cmake_project/build/mak.vc16/x64/src/LABORATORIO_05/CMakeFiles/ALL_BUILD.dir
+D:/OpenGl/opengl/GLFW_GLAD_GLUT_GLEW_cmake_project/build/mak.vc16/x64/src/hw0/CMakeFiles/hw0.dir
+D:/OpenGl/opengl/GLFW_GLAD_GLUT_GLEW_cmake_project/build/mak.vc16/x64/src/hw0/CMakeFiles/ALL_BUILD.dir
